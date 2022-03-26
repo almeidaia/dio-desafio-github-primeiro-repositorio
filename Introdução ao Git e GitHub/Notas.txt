@@ -1,0 +1,1 @@
+Neste arquivo serão apresentadas algumas notas do curso "Introdução ao Git e GitHub".
